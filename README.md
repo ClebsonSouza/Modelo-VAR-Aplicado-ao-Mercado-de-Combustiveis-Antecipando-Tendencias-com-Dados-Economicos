@@ -1,0 +1,1 @@
+# Modelo-VAR-Aplicado-ao-Mercado-de-Combustiveis-Antecipando-Tendencias-com-Dados-Economicos
