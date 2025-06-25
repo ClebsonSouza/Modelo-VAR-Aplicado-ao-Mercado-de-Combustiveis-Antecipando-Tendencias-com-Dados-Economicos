@@ -6,11 +6,11 @@ Este projeto aplica o modelo VAR (Vector Autoregressive) para analisar e prever 
 
 Foram utilizadas três séries temporais semanais com valores nominais (todos na mesma base do Real Brasileiro):
 
-Preço da Gasolina (João Pessoa – fonte: ANP)
+Preço da Gasolina (João Pessoa – fonte: http://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis))
 
-Cotação do Dólar (USD/BRL) — fonte: Investing.com
+Cotação do Dólar (USD/BRL) — fonte: https://br.investing.com/currencies/usd-brl-historical-data
 
-Cotação do Petróleo Brent (futuros) — fonte: Investing.com
+Cotação do Petróleo Brent (futuros) — fonte: https://br.investing.com/commodities/brent-oil-historical-data
 
 ###❓ Problema de Negócio
 
